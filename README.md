@@ -1,5 +1,7 @@
 # Avaliação de Desempenho do Spring PetClinic (Microservices) com Locust
 
+📁 [Acesse a pasta no Google Drive para ler o Artigo](https://drive.google.com/drive/folders/1NEeOQ36xiJCVgsRCrnMTmBTH7Uc_FD0c)
+
 🎥 [Assista ao vídeo de demonstração no YouTube](https://www.youtube.com/watch?v=slVGNqvesc4)
 
 Este repositório contém os artefatos para um trabalho de avaliação de desempenho. O objetivo principal é medir e relatar o desempenho básico da aplicação **Spring PetClinic (versão microsserviços)**, utilizando a ferramenta de teste de carga **Locust**.
@@ -138,3 +140,4 @@ Os gráficos gerados incluem:
 6.  Tempo Médio de Resposta por Endpoint
 
 7.  Taxa de Sucesso por Endpoint
+
