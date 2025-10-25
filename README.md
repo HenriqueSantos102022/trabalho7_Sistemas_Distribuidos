@@ -1,6 +1,6 @@
 # Avaliação de Desempenho do Spring PetClinic (Microservices) com Locust
 
-📁 [Acesse a pasta no Google Drive para ler o Artigo](https://drive.google.com/drive/folders/1NEeOQ36xiJCVgsRCrnMTmBTH7Uc_FD0c)
+📄 [Baixar PDF do Artigo](https://drive.google.com/file/d/1wbwYsTaS_jQWLfJyF34_LEQhj8jEXD_y/view?usp=sharing)
 
 🎥 [Assista ao vídeo de demonstração no YouTube](https://www.youtube.com/watch?v=slVGNqvesc4)
 
@@ -140,4 +140,5 @@ Os gráficos gerados incluem:
 6.  Tempo Médio de Resposta por Endpoint
 
 7.  Taxa de Sucesso por Endpoint
+
 
